@@ -7,5 +7,5 @@ In this project, me and my team members designed a student-friendly course plann
 3. Graduate by spending minimum tuition fees
 4. Graduate with maximum knowledge in his/her's area of interest
 
-We provide the optimal schedule based on the student's objective. The course planner was tested on data concerning only the courses offered by the Computer Science department at UW Madison. The objectives were framed keeping in mind the course requirements of the graduate students to complete their Master's program.
+We provide the optimal schedule based on the student's objective. The course planner was tested on data concerning the courses offered by the Computer Science department at UW Madison. The objectives were framed keeping in mind the course requirements of the graduate students to complete their Master's program.
  
